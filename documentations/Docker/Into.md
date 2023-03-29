@@ -287,3 +287,8 @@ executeShell.sh
 root@8c5d4d68fc1a:/home/suyash_dir# 
 ```
 
+## Docker container details
+
+
+    docker inspect container_name
+
