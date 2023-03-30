@@ -16,3 +16,8 @@ gcloud auth login
 gcloud auth application-default login
 ```
 
+List the current configurations, i.e. account,project,etc
+
+```
+gcloud config list
+```
