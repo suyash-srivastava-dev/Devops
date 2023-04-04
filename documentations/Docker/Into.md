@@ -33,8 +33,11 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 
 ### Install docker 
 
-sudo apt install docker.io
+`sudo apt install docker.io`
 
+### Install docker compose
+
+``
 
 ## Outputs
 ## Check docker version info
