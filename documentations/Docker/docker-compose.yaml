@@ -38,7 +38,7 @@ services:
         restart: unless-stopped
         environment:
             - APP_PORT=22300
-            - APP_BASE_URL=http://hostname:22300
+            - APP_BASE_URL=http://localhost:22300
             - DB_CLIENT=pg
             - POSTGRES_PASSWORD=joplin
             - POSTGRES_DATABASE=joplin
